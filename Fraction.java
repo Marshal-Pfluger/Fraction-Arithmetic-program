@@ -285,21 +285,5 @@ public class Fraction {
 			displayString = String.format("The Fraction is not an improper fraction.\n %d/%d\n", numerator, denominator);
         }
         return displayString;
-    }// End displayImproper method
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-}
+    }// End displayImproper method	
+}// End class
